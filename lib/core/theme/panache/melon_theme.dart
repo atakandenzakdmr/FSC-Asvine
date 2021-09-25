@@ -1,0 +1,1 @@
+// melon = #febadd RGB, it is composed of 100% red, 73% green and 68% blue components.  255/255 189/255 174/255

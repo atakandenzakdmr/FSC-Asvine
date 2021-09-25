@@ -1,0 +1,64 @@
+name: asvine
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_screenutil: ^5.0.0+2  #sayfalarımızda “responsive height weight , fontsize” için kullandığımız çok popüler bir paket.
+  cupertino_icons: ^1.0.3 #icon paketi
+  font_awesome_flutter: ^9.1.0  #font paketi
+  easy_localization: ^3.0.0 #Localization (dil / tema secenek vb..) islem paketi
+  introduction_screen: ^2.1.0 #OnBoard screen paketi
+  flutter_native_splash: ^1.2.2 #Splash screen paketi
+  animated_text_kit: ^4.2.1 #text animasyon paketi
+  google_fonts: ^2.1.0 #font paketi
+  flutter_markdown: ^0.6.6 # .md icerklerini kullanirken icerigi html degilde orjinal bicimi sectik, kullanim icin bu paket gerekli
+  supabase: ^0.2.7 #auth kontrol database baglanti paketi
+  
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.2 #uygulama iconu 
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4 #iyi kodlama uygulamalarını teşvik etmek için kullanilan paket
+
+
+flutter_icons:
+  image_path: "assets/icons/asvine.png"
+  image_path_anroid: "assets/icons/asvine.png"
+  android: true
+  ios: true
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/dialogs/
+     - assets/fonts/
+     - assets/icons/
+     - assets/images/
+     - assets/langs/
+     - assets/logos/
+
+
+  fonts:
+    - family: Flamenco
+      fonts:
+        - asset: assets/fonts/Flamenco-Light.ttf
+        - asset: assets/fonts/Flamenco-Regular.ttf
+
+    - family: Belgrano
+      fonts:
+        - asset: assets/fonts/Belgrano-Regular.ttf
+ 
