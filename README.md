@@ -23,19 +23,23 @@ Cihazlardaki Giriş bilgilerinin kontrolü SupaBase - Authentication ile sağlan
 ## Proje İçeriği
 Flutter Ortamında Geliştirilen “Asvine” Uygulamasının
 <a href="https://xd.adobe.com/view/39930076-68f6-4173-98bc-bec8389839f9-6cc0/?fullscreen&hints=off" target="_blank">Adobe XD</a> Ortamında Ornek Çalışma Senaryosu Gösterilmiştir.
-
+## Paketler
+Proje'de Kullanilan [Paketler](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/pubspec.yaml) <br>
+<br>
 ## Uygulama Ekranları
 <br>
-Asvine Uygulaması ; <br>
+ [Asvine](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_appIcon.png) <br>
 <br>
-• Splash Ekranına, <br>
-• OnBoarding Ekranına, <br>
-• Login Ekranına, <br>
-• SignUp Ekranına, <br>
-• MainPage Ekranına, <br>
-• Profil Ekranına, <br>
-• Hakkında Ekranına, <br>
-<br>
+• [Splash](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif) <br>
+• [OnBoarding](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif) <br> 
+• [Login](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_login.png) <br> 
+• [SignUp](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_signUp.png) <br> 
+• [Main](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_mainPage.png) <br> 
+• [Wardobe](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_wardrobe.png) <br> 
+• [Profile](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png) <br>
+• [Privacy](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_privacy.png) <br> 
+• [Terms](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_terms.png) <br> 
+
 <br>
 Yapilmasi Planlanan Uygulama Ekranlari; <br>
 <br>
@@ -49,5 +53,3 @@ Yapilmasi Planlanan Uygulama Ekranlari; <br>
 • Moda haberlerinin takip edilebileceği Haber Takip Ekranı, <br>
 • Takip edilen markaların katolog çekimlerini görülebileceği Moda Stil Ekranı, <br>
 <br>
-
-## Supabase Ekranları
