@@ -5,7 +5,7 @@ Anahtar kelimeler: Gardırop, Gardırop Asistanı, Moda Takibi, Clothes Suggesti
 
 Gif             |  Login
 :-------------------------:|:-------------------------:
-![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/7a345e40f9dc1fa47659ce538057814d29c444b3/github/asvine_gif.gif?raw=true)  |  ![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/1da6b00f589f8a4b8b57843fbf25c81b22cc5223/github/asvine_login.png?raw=true)
+![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/7a345e40f9dc1fa47659ce538057814d29c444b3/github/asvine_gif.gif?raw=true)  |  ![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png?raw=true)
 
 ## Projeye Giris
 
@@ -39,7 +39,6 @@ Proje'de Kullanilan [Paketler](https://github.com/atakandenzakdmr/FSC-Asvine/blo
 • [Profile](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png) <br>
 • [Privacy](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_privacy.png) <br> 
 • [Terms](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_terms.png) <br> 
-
 <br>
 Yapilmasi Planlanan Uygulama Ekranlari; <br>
 <br>
