@@ -28,16 +28,17 @@ Proje'de Kullanilan [Paketler](https://github.com/atakandenzakdmr/FSC-Asvine/blo
 <br>
 ## Uygulama Ekranları
 <br>
- [Asvine](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_appIcon.png) <br>
+ <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_appIcon.png" rel="nofollow">Asvine</a> <br> 
+
 <br>
-• [Splash](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif) <br>
-• [OnBoarding](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif) <br> 
-• [Login](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_login.png) <br> 
-• [SignUp](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_signUp.png) <br> 
-• [Main](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_mainPage.png) <br> 
-• [Wardobe](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_wardrobe.png) <br> 
-• [Profile](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png) <br>
-• [Privacy](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_privacy.png) <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif" rel="nofollow">Splash</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_gif.gif" rel="nofollow">OnBoarding</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_login.png">Login</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_signUp.png" rel="nofollow">SignUp</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_mainPage.png" rel="nofollow">Main</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_wardrobe.png" rel="nofollow">Wardobe</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png" rel="nofollow">Profile</a> <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_privacy.png" rel="nofollow">Privacy</a> <br> 
 • <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_terms.png" rel="nofollow">Terms</a> <br> 
 <br>
 
