@@ -5,7 +5,7 @@ Anahtar kelimeler: Gardırop, Gardırop Asistanı, Moda Takibi, Clothes Suggesti
 
 Gif             |  Login
 :-------------------------:|:-------------------------:
-![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/main/asvine/github/asvine_gif.gif?raw=true)  |  ![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/main/asvine/github/asvine_login.png?raw=true)
+![alt](https://github.com/atakandenzakdmr/FSC-Asvine/asvine/github/asvine_gif.gif?raw=true)  |  ![alt](https://github.com/atakandenzakdmr/FSC-Asvine/blob/main/asvine/github/asvine_login.png?raw=true)
 
 ## Projeye Giris
 
