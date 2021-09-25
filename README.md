@@ -38,8 +38,9 @@ Proje'de Kullanilan [Paketler](https://github.com/atakandenzakdmr/FSC-Asvine/blo
 • [Wardobe](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_wardrobe.png) <br> 
 • [Profile](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_drawer.png) <br>
 • [Privacy](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_privacy.png) <br> 
-• [Terms](https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_terms.png) <br> 
+• <a href="https://github.com/atakandenzakdmr/FSC-Asvine/blob/a5f1aeb505961ed018c7e0dee88de5b5588c8b83/github/asvine_terms.png" rel="nofollow">Terms</a> <br> 
 <br>
+
 Yapilmasi Planlanan Uygulama Ekranlari; <br>
 <br>
 • Kamera bağlantısıyla veya galeriden ürünlerin eklenebileceği Kıyafet Ekleme Ekranı, <br>
