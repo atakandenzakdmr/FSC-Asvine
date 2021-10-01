@@ -18,6 +18,10 @@ class AsvineColor {
   static const dotColorA = Color(0xFF527DAA);
   static const dotColorP = Color(0xFFD5E1EE);
   static const dotContainer = Color(0xfff8be99);
+  static const dotActive = Color(0xff5a38fe);
+  static const dotPassive = Color(0xff8a38fe);
+  static const dotShadow = Color(0xff432fa5);
+  static const dotTxtColor = Color(0xFF000000);
 
   //appBar
   static const gradient1 = Color(0xfff8be99);

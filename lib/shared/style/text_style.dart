@@ -2,9 +2,10 @@
 import 'package:asvine/shared/style/color_style.dart';
 import 'package:flutter/material.dart';
 
-
-const dotDecoratorStyle =
-    TextStyle(color: AsvineColor.loginTxt, fontWeight: FontWeight.w900, fontFamily: 'Flamenco');
+const dotDecoratorStyle = TextStyle(
+    color: AsvineColor.dotTxtColor,
+    fontWeight: FontWeight.w900,
+    fontFamily: 'Flamenco');
 
 class AsvineTxtStyle {
   /// SPLASH-PAGE-VIEW
@@ -22,26 +23,20 @@ class AsvineTxtStyle {
   ///
   ///
   static const onBoardingStyle = TextStyle(
-    color: AsvineColor.homeTitleColors,
+    color: Colors.white70,
     fontSize: 40.0,
     fontFamily: 'Belgrano',
     shadows: <Shadow>[
-      Shadow(
-          offset: Offset(5.0, 5.0),
-          blurRadius: 7,
-          color: AsvineColor.loginHintTxt),
+      Shadow(offset: Offset(5.0, 5.0), blurRadius: 7, color: Colors.white54),
     ],
   );
 
   static const onBoardBodyStyle = TextStyle(
-    color: AsvineColor.homeTitleColors,
+    color: Colors.white70,
     fontSize: 30.0,
     fontFamily: 'Flamenco',
     shadows: <Shadow>[
-      Shadow(
-          offset: Offset(5.0, 5.0),
-          blurRadius: 7,
-          color: AsvineColor.loginHintTxt),
+      Shadow(offset: Offset(5.0, 5.0), blurRadius: 7, color: Colors.white54),
     ],
   );
 
@@ -71,7 +66,6 @@ class AsvineTxtStyle {
     color: AsvineColor.homeTitleColors,
     fontSize: 20.0,
     fontFamily: 'Flamenco',
- 
   );
 
   static const newsSubtitleStyle = TextStyle(
@@ -79,6 +73,7 @@ class AsvineTxtStyle {
     fontSize: 10.0,
     fontFamily: 'Belgrano',
   );
+
   /// LOGIN-PAGE-VIEW
   ///
   ///

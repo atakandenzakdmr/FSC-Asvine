@@ -29,13 +29,6 @@ const String animatedTxt2 = 'KESFET';
 const String animatedTxt3 = 'YANSIT';
 const String animatedTxt4 = 'PAYLAS';
 
-
-// LoginViewScreen-Txt
-const String loginTitle1 = 'Urunlerini Ekle';
-const String loginAd = 'Ozelliklerini Belirt';
-const String loginSoyAd = 'Ozelliklerini Belirt';
-
-
 /// LoginViewScreen-Txt
 ///
 ///

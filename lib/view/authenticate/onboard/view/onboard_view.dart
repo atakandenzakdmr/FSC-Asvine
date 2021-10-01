@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_literals_to_create_immutables
+
 import 'package:asvine/shared/style/color_style.dart';
 import 'package:asvine/core/constants/text_constants.dart';
 import 'package:asvine/shared/style/text_style.dart';
@@ -23,9 +25,6 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
     );
   }
 
-  Widget _buildImage(String assetName, [double width = 300]) {
-    return Image.asset('assets/images/$assetName', width: width);
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -37,17 +36,18 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
       titleTextStyle: AsvineTxtStyle.onBoardingStyle,
       bodyTextStyle: AsvineTxtStyle.onBoardBodyStyle,
       descriptionPadding: EdgeInsets.all(10),
-      pageColor: Colors.white,
+      pageColor: AsvineColor.gradient4,
       imagePadding: EdgeInsets.only(top: 30),
     );
 
     return IntroductionScreen(
+      globalBackgroundColor: AsvineColor.gradient4,
       pages: [
         //1.ekran
         PageViewModel(
           title: oboardTitle1,
           body: oboardBody1,
-          image: _buildImage('foto1.jpg'),
+          image: Image.network('https://zqemgvzynujfudvvzlgo.supabase.in/storage/v1/object/public/asvine-animated/face_id_transparent.gif'),
           decoration: pageDecoration,
         ),
 
@@ -55,7 +55,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
         PageViewModel(
           title: oboardTitle2,
           body: oboardBody2,
-          image: _buildImage('foto2.jpg'),
+          image: Image.network('https://zqemgvzynujfudvvzlgo.supabase.in/storage/v1/object/public/asvine-animated/construction_transparent.gif'),
           decoration: pageDecoration,
         ),
 
@@ -63,7 +63,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
         PageViewModel(
           title: oboardTitle3,
           body: oboardBody3,
-          image: _buildImage('foto3.jpg'),
+          image: Image.network('https://zqemgvzynujfudvvzlgo.supabase.in/storage/v1/object/public/asvine-animated/internet_transparent.gif'),
           decoration: pageDecoration,
         ),
       ],
@@ -79,7 +79,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
       ),
       next: const Icon(
         Icons.arrow_forward,
-        color: AsvineColor.loginTxt,
+        color: AsvineColor.dotTxtColor,
       ),
       done: const Text(
         decoratorTitle2,
@@ -93,23 +93,16 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
 
       dotsDecorator: const DotsDecorator(
         size: Size(10.0, 10.0),
-        color: AsvineColor.dotColorP,
+        color: AsvineColor.dotPassive,
         activeSize: Size(22.0, 10.0),
-        activeColor: AsvineColor.dotColorA,
+        activeColor: AsvineColor.dotActive,
         activeShape: RoundedRectangleBorder(
           borderRadius: BorderRadius.all(Radius.circular(25.0)),
         ),
       ),
 
-      dotsContainerDecorator: const ShapeDecoration(
-        gradient: LinearGradient(colors: [
-          AsvineColor.gradient1,
-          AsvineColor.gradient2,
-          AsvineColor.gradient3,
-          AsvineColor.gradient4,
-          AsvineColor.gradient5,
-          AsvineColor.gradient6,
-        ]),
+      dotsContainerDecorator:  const ShapeDecoration(
+        color: AsvineColor.gradient4,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.all(Radius.circular(8.0)),
         ),
